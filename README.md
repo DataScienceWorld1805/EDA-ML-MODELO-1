@@ -221,4 +221,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 👤 Autor
 
-**Martin**
+**Martin O. Alonso**
